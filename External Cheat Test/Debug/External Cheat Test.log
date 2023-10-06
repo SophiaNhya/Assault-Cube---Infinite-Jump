@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Sophia\Desktop\Projects\Other Codes\External Cheat Test\main.cpp(69,17): warning C4189: 'i_canJump': variável local é inicializada mas não referenciada
+  External Cheat Test.vcxproj -> C:\Users\Sophia\Desktop\Projects\Other Codes\External Cheat Test\Debug\External Cheat Test.exe
